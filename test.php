@@ -1,7 +1,20 @@
 <html>
+  <head>
+    <title>Bienvenue</title>
+  </head>
 <body>
-<title>test</title>
 
+<?php
+
+  $calc1 = 1;
+  $calc2 = 1.5;
+  
+  $result = $calc1 + $calc2;
+  
+  echo $result;
+  
+  
+?>
 
 
 
